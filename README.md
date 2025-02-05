@@ -5,8 +5,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a frontend engineer.
-- 🌱 I’m currently learning TypeScript&Next.js&Supabase!
+- 🧑‍💻 I'm a fullstack engineer.
+- 🌱 I’m currently learning TypeScript&Next.js&NestJS!
 - 📫 How to reach me: [Twitter - @haiku1135](https://twitter.com/haiku1135)
 <br>
 
